@@ -47,3 +47,14 @@ Password Strength: 2
 Hint: Not good enough! Change ASAP
 ```
 
+## Additional Notes
+
+* This app prioritizes core password complexity evaluation. For enhanced security, consider using password managers and employing more intricate password creation methods.
+* Basic CSS styling is included for a visually appealing interface. Feel free to customize it further for a more personalized experience.
+
+Such Password Complexity Checker empowers you with valuable insights into strengthening your passwords and securing your online accounts
+
+## License
+
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
